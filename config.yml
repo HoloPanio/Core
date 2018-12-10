@@ -1,0 +1,15 @@
+####################
+#                  #
+#   TheServerCore  #
+#                  #
+####################
+
+#If you are using this for a lobby, set this to true.
+Lobby: true
+
+#If you are not using this plugin for a lobby,
+#these are the options you get the toggle.
+Commands:
+   Feed-Enabled: true
+   Heal-Enabled: true
+   Spawn-Enabled: true

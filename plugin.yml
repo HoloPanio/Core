@@ -1,0 +1,68 @@
+name: TheServerCore
+main: net.holopanio.dev.Main
+version: 1.0
+commands:
+
+   cver:
+      description: Server Version
+      usage: /<command>
+
+   ci:
+      description: Clear your inventory.
+      usage: /<command>
+
+   heal:
+      description: Heal somebody, I guess...
+      usage: /<command>
+
+   freeze:
+      description: I am chilled!!!!
+      usage: /<command>
+
+   gmc:
+      description: Go into creative
+      usage: /<command>
+
+   gms:
+      description: Go into survival
+      usage: /<command>
+
+   gma:
+      description: Go into survival
+      usage: /<command>
+
+   gmsp:
+      description: Go into survival
+      usage: /<command>
+
+   invsee:
+      description: Peeping Tom!!!!!!!
+      usage: /<command>
+
+   fly:
+      description: Up up, and away!
+      usage: /<command>
+
+   whois:
+      description: IP Lookup?
+      usage: /<command>
+
+   feed:
+      description: FOOOD!
+      usage: /<command>
+
+   tempban:
+      description: Temp ban a player
+      usage: /<command>
+      
+   spawn:
+      description: Teleport to the spawn point.
+      usage: /<command>
+   
+   setspawn:
+      description: Set the spawn point.
+      usage: /<command>  
+      
+   scrl:
+      description: Reload the "TheServerCore" config
+      usage: /<command>           
